@@ -9,35 +9,35 @@
 import SwiftUI
 
 let films =
-["Night on Earth": "R. Benigni",
- "Collateral": "T. Cruise",
+["Night On Earth": "R. Benigni",
+ "Top Gun": "T. Cruise",
  "Joker": "J. Phoenix",
  "Downfall": "B. Ganz",
  "Finding Graceland": "H. Keitel",
  "Blood Sport": "J. van Damme",
- "Batman": "C. Bale",
- "Beutiful Mind": "R. Crowe",
- "Bourne Trilogy": "M. Damon",
- "About a Boy": "H. Grant",
+ "American Psycho": "C. Bale",
+ "A Beutiful Mind": "R. Crowe",
+ "The Bourne Trilogy": "M. Damon",
+ "About A Boy": "H. Grant",
  "Doctor Zhivago": "O. Sharif",
  "Titanic": "L. DiCaprio",
  "The Office": "R. Gervais",
  "Onegin": "R. Finnes",
  "Rambo": "S. Stalone",
  "Pulp Fiction": "J. Travolta",
- "Legends of the Fall": "B. Pitt",
+ "Legends Of The Fall": "B. Pitt",
  "Matrix": "K. Reeves",
- "Fight Club": "E. Norton.",
- "Usual Suspects": "K. Spacey",
+ "Dracula": "B. Lugosi",
+ "The Usual Suspects": "K. Spacey",
  "Braveheart": "M. Gibson",
  "About Schmidt": "J. Nicholson",
  "Casablanca": "I. Bergman",
- "The Wizard of Oz": "J. Garland",
+ "The Wizard Of Oz": "J. Garland",
  "The Third Man": "O. Welles",
  "Ben Hur": "C. Heston",
  "Trainspotting": "E. McGregor",
- "Gone with the Wind": "V. Leigh",
- "Some like it hot": "J. Lemon",
+ "Gone With The Wind": "V. Leigh",
+ "Some Like It Hot": "J. Lemon",
  "Die Hard": "B. Willis"]
 
 struct ContentView: View {
@@ -199,8 +199,8 @@ struct ContentView: View {
     }
 }
 
-struct ContentView_Previews: PreviewProvider {
-    static var previews: some View {
-        ContentView()
-    }
+
+#Preview {
+    ContentView()
 }
+
