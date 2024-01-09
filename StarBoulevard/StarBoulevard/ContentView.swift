@@ -9,7 +9,7 @@
 import SwiftUI
 
 let films =
-["Night On Earth": "R. Benigni",
+["Night on Earth": "R. Benigni",
  "Top Gun": "T. Cruise",
  "Joker": "J. Phoenix",
  "Downfall": "B. Ganz",
@@ -25,14 +25,14 @@ let films =
  "Onegin": "R. Finnes",
  "Rambo": "S. Stalone",
  "Pulp Fiction": "J. Travolta",
- "Legends Of The Fall": "B. Pitt",
+ "Legends of The Fall": "B. Pitt",
  "Matrix": "K. Reeves",
  "Dracula": "B. Lugosi",
  "The Usual Suspects": "K. Spacey",
  "Braveheart": "M. Gibson",
  "About Schmidt": "J. Nicholson",
  "Casablanca": "I. Bergman",
- "The Wizard Of Oz": "J. Garland",
+ "The Wizard of Oz": "J. Garland",
  "The Third Man": "O. Welles",
  "Ben Hur": "C. Heston",
  "Trainspotting": "E. McGregor",
@@ -203,4 +203,3 @@ struct ContentView: View {
 #Preview {
     ContentView()
 }
-
